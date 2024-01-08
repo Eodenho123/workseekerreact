@@ -1,0 +1,26 @@
+.job-search-forms-list {
+    margin-top: 20px;
+  }
+  
+  .job-search-form-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Center items vertically */
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .job-search-form-details {
+    flex: 70%;
+  }
+  
+  .job-search-form-actions {
+    flex: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /* Center items vertically */
+  }
+  
+  /* Make the delete and edit buttons smaller */
+  
